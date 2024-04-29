@@ -1,6 +1,6 @@
 下一個專題:商品購物車前端/後端/資料庫設計的雛型
 
-![image](https://github.com/Evan1349/catalog/assets/94741456/f0b47335-c3c7-4773-87ef-e4feabb69f45)
+
 
 # React + Vite
 
